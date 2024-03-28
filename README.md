@@ -1,4 +1,4 @@
-# About me
+## Hey I'm Naval Verma
 
 <!--
 **naval-singh/naval-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
