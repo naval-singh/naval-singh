@@ -5,7 +5,7 @@ I am a Full stack web developer, Passionate about exploring new technologies and
 ## ⚡ Technologies I Work With:
 
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript"
       width="40"
