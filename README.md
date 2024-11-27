@@ -145,5 +145,19 @@ I am a Full stack web developer, Passionate about exploring new technologies and
     width="40"
     height="40"
   />
+  &nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+    alt="Python"
+    width="40"
+    height="40"
+  />
+  &nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"
+    alt="FastApi"
+    width="40"
+    height="40"
+  />
 </p>
 
