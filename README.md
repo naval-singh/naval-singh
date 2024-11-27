@@ -1,10 +1,6 @@
 ## Hey I'm Naval Verma
 
-I am a Full stack web developer, Passionate about exploring new techs and leverage them to build new projects.
-
-## 💼 Current Projects:
-- 🚀 Spearheading the development of [Project Name](https://project-link.com), [brief description].
-- 🛠️ Contributing to [Project Name](https://project-link.com), [brief description].
+I am a Full stack web developer, Passionate about exploring new technologies and leverage them to build new projects.
 
 ## ⚡ Technologies I Work With:
 
